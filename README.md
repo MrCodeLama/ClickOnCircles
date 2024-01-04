@@ -1,6 +1,5 @@
 ClickOnCircles Game
 
--------------------------------------------------------------------------------------------------------
 Game logic:
   =>Managers:
     ->GameOverManager
@@ -30,9 +29,9 @@ Game logic:
       helps to count the time of round
     ->InputHandler
       checks the click on circles
--------------------------------------------------------------------------------------------------------
+
 Overall:
   The logic of objects in game is simple: every manager controlls the specific field of game and has an 
   empty object with the same name. For text I used TextMeshPro. I made a flexible sprites for buttons 
   that are practical in use because they can have different ratios. 
--------------------------------------------------------------------------------------------------------
+
