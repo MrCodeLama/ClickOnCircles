@@ -1,11 +1,9 @@
 ClickOnCircles Game
 
 Game logic:
-
   =>Managers:
     ->GameOverManager
-      removes ui elements and circles that weren poped by player and shows score with buttons play again
-      and exit to main menu
+      removes ui elements and circles that weren poped by player and shows score with buttons play again and exit to main menu
     ->ScenesManager
       helps to navigate between scenes in game. There can be only one Object of SceneManager
     ->ScoreManager
