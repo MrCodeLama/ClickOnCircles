@@ -1,6 +1,7 @@
 ClickOnCircles Game
 
 Game logic:
+
   =>Managers:
     ->GameOverManager
       removes ui elements and circles that weren poped by player and shows score with buttons play again
